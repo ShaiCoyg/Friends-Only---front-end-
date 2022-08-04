@@ -1,5 +1,5 @@
 # Friends Only (a facebook copycat) - Frontend
-![Capture]([https://user-images.githubusercontent.com/55280978/137301444-8ed637ee-f7ff-42fc-adc5-d74d866ff1f7.PNG](https://www.lambdatest.com/blog/wp-content/uploads/2018/11/JPG-2.jpg))
+![Capture]([[https://user-images.githubusercontent.com/55280978/137301444-8ed637ee-f7ff-42fc-adc5-d74d866ff1f7.PNG](https://www.lambdatest.com/blog/wp-content/uploads/2018/11/JPG-2.jpg](https://tolustar.com/wp-content/uploads/2020/02/html-css.jpg)))
 
 *a facebook copycat implemented with pure HTML and CSS.
 <br/>
